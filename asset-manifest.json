@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Starbucks_React/static/css/main.54fb4da0.css",
+    "main.js": "/Starbucks_React/static/js/main.1547abc7.js",
+    "index.html": "/Starbucks_React/index.html",
+    "main.54fb4da0.css.map": "/Starbucks_React/static/css/main.54fb4da0.css.map",
+    "main.1547abc7.js.map": "/Starbucks_React/static/js/main.1547abc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fb4da0.css",
+    "static/js/main.1547abc7.js"
+  ]
+}
